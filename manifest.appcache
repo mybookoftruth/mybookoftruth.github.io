@@ -1,9 +1,11 @@
 CACHE MANIFEST
-###
-
 /img/apple-touch-icon.png
+/img/fbook.png
+/img/gplus.png
+/img/email.png
+/img/twtr.png
 /favicon.ico
-/assets/styles-32162da0747afef567659668430030aa.css
+/assets/styles-f253555aa82d0d764291f9b00875f6b1.css
 http://fonts.googleapis.com/css?family=Merriweather:300,400,700,400italic
 http://www.google-analytics.com/analytics.js
 http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
